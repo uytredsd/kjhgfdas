@@ -2,12 +2,12 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'20f51238-fd38-4b7f-a80c-0a5bed39d284'}
+UUID=${UUID:-'cde7eeaf-9acd-4cc5-85ac-489637c62867'}
 
 # 其他Paas保活
-PAAS1_URL=
-PAAS2_URL=
-PAAS3_URL=
+PAAS1_URL=https://abyssinian-periwinkle-bongo.glitch.me
+PAAS2_URL=https://immense-stitch-cosmos.glitch.me
+PAAS3_URL=https://qk2ew3-3000.csb.app
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
@@ -17,8 +17,8 @@ KOYEB_ACCOUNT=
 KOYEB_PASSWORD=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH=''
-ARGO_DOMAIN=
+ARGO_AUTH='{"AccountTag":"c2594cd9c26fab42c2267cdf1502cab8","TunnelSecret":"8x+z1eL+xy6blki0kDtFaXJk/WcvFqK3HgxDLgRBQ2I=","TunnelID":"ec2aeecc-e784-42a0-ad95-72f041502299"}'
+ARGO_DOMAIN=background.freewwpp.cf
 
 generate_config() {
   cat > config.json << EOF
