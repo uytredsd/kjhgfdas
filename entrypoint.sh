@@ -8,8 +8,8 @@ UUID=${UUID:-'cde7eeaf-9acd-4cc5-85ac-489637c62867'}
 PAAS1_URL=https://abyssinian-periwinkle-bongo.glitch.me
 PAAS2_URL=https://immense-stitch-cosmos.glitch.me
 PAAS3_URL=https://qk2ew3-3000.csb.app
-PAAS4_URL=
-PAAS5_URL=
+PAAS4_URL=https://fuzzy-equal-pancreas.glitch.me
+PAAS5_URL=https://quirky-steady-denim.glitch.me
 PAAS6_URL=
 
 # koyeb账号保活
