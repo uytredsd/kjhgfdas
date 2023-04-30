@@ -9,7 +9,7 @@ PAAS1_URL=https://cuboid-earthy-pewter.glitch.me
 PAAS2_URL=https://immense-stitch-cosmos.glitch.me
 PAAS3_URL=https://qk2ew3-3000.csb.app
 PAAS4_URL=https://fuzzy-equal-pancreas.glitch.me
-PAAS5_URL=
+PAAS5_URL=https://mirage-sunrise-motorcycle.glitch.me
 PAAS6_URL=
 
 # koyeb账号保活
